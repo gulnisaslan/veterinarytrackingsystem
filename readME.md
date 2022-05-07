@@ -19,3 +19,4 @@
 ## run jar file in cmd.
 ## jar file name: veterinarytrackingsystem-0.0.1-SNAPSHOT.jar
 
+And Internet browser : http://localhost:8081/swagger-ui.html this link used , you can use and try endpoints
